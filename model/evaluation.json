@@ -1,0 +1,40 @@
+{
+    "accuracy": 1.0,
+    "classification_report": {
+        "Fake": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 24.0
+        },
+        "Real": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 24.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 48.0
+        },
+        "weighted avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 48.0
+        }
+    },
+    "confusion_matrix": [
+        [
+            24,
+            0
+        ],
+        [
+            0,
+            24
+        ]
+    ]
+}
